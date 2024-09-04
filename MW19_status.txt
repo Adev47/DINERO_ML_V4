@@ -1,0 +1,1 @@
+AIO/CHAIR/UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/DINERO_ML_V4/main/uploads/MW19.exe
