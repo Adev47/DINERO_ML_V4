@@ -1,1 +1,1 @@
-LOGO,1.00.2,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/dinero_logo_v1.gif
+LOGO,1.00.3,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/dinero_logo_v1.gif
