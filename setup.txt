@@ -1,0 +1,13 @@
+[design]
+highlight_color = #FF0000
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/dineroshop
+guide_link = https://dinero-shop.gitbook.io/help-desk/
+website_link = https://dinerosolutions.sell.app/
+
+[rounded_corners]
+main_widgets = 12
